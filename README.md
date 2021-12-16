@@ -1,3 +1,4 @@
+# Password-gen.py
 It will generate a random password by taking input by user the lenght of password
 This is a output of password-gen.py
 
@@ -7,7 +8,7 @@ bdVxp7zOh <-------- you can see thit work its generates a password ---------->ðŸ
 
 
 
-
+# Password_generator.py
 In the second file it little bit complicated 
 Function takes input the length password 
 and ask how many digits,letters and special digits user want
